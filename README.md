@@ -1,1 +1,4 @@
-# cst8918-w25-lab12
+## Team Members
+- Vishal Vekariya (veka0011@algonquinlive.com) 
+- Meet Patel (pate1620@algonquinlive.com) 
+## Screenshots
